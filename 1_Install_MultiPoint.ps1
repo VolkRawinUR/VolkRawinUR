@@ -1,0 +1,1 @@
+Install-WindowsFeature -Name File-Services,FS-FileServer,MultiPointServerRole,Print-Services,Print-Server,Remote-Desktop-Services,RDS-Licensing,RDS-RD-Server,RDC,RSAT,RSAT-Role-Tools,RSAT-RDS-Tools,RSAT-RDS-Licensing-Diagnosis-UI,RDS-Licensing-UI,RSAT-Print-Services,Search-Service,XPS-Viewer -Restart

@@ -1,0 +1,1 @@
+powershell.exe -command "& 'D:\map_drive.ps1'"
